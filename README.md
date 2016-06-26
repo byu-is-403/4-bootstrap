@@ -2,32 +2,24 @@
 
 The purpose of this assignment is to help students understand how HTML, CSS, and JavaScript work together to create modern websites.
 
-### Requirements
-* [ ] Uses (Bootstrap)[https://getbootstrap.com], either locally or from a CDN
-* The site should contain _at least_ the following content:
-  * [ ] Home page
-    * [ ] A picture of you
-  * [ ] Resume page
-    * [ ] Education
-    * [ ] Experience
-    * [ ] Skills
-  * [ ] About page
-    * [ ] 2 paragraphs about yourself
+### Getting Started
+You will be using HTML, CSS, and JavaScript to build a resume website for yourself. Let's review what these three tools do:
 
-### Questions
-**These questions must be completed before the assignment will be graded.**
+| | |
+| --- | --- |
+| HTML | HTML stands for "Hyper Text Markup Language". It is the language you will use to define the structure of your page |
+| CSS | CSS stands for "Cascading Stylesheets". It is the language you will use to style your page |
+| JavaScript | JavaScript is the dynamic language of the web. Despite naming similarities, it has about as much in common with Java as a Carnival does with a Car. It is used to make the web interactive and responsive. |
 
-_What are some advantages of using code from a CDN?_
+To begin, open the file included in this repository named `index.html`. `index` is a common name for the home page of a site.
 
+...
+...
+...
 
-_What are some disadvantages of using a CDN?_
+Stuff about Bootstrap, etc.
 
-
-_What does Bootstrap do?_
-
-
-_You are working at a company that is looking to revamp their web presence. List some pros and cons of using Bootstrap as the main CSS framework for the site redesign_
-
+Feel free to get creative!
 
 ### Scoring
 | Description | Points |
